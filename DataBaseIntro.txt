@@ -1,0 +1,11 @@
+Database is a collection of data stored in a format that can be easily accessed (rows and columns)
+In order to manage DB we use DBMS (software application)
+DBMS executes the query against database and gives the result.
+
+Two types of DB
+	1. Relational DB
+	2. Non relational DB
+
+Tables -> where we store the data
+views -> virtual tables, where we combine data from one or more tables to generate report
+stored_procedures and functions -> little program inside DB to query the data
